@@ -3,9 +3,9 @@
 
 | Tables                                        | Time          |
 | --------------------------------------------- |:-------------:|
-| Read file 1-char at a time to String          | right-aligned |
-| Read file 1-char at a time to StringBuilder   | centered      |
-| Read file line at a time using BufferedReader | are neat      |
+| Read file 1-char at a time to String          | 0.891649      |
+| Read file 1-char at a time to StringBuilder   | 0.015356      |
+| Read file line at a time using BufferedReader | 0.020761      |
 
 
 ## Explanation of Results
