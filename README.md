@@ -1,5 +1,5 @@
-#Input-Output Tasks
-###by Charin Tantrakul
+# Input-Output Tasks
+### by Charin Tantrakul
 
 | Tables                                        | Time          |
 | --------------------------------------------- |:-------------:|
@@ -8,7 +8,7 @@
 | Read file line at a time using BufferedReader | are neat      |
 
 
-##Explanation of Results
+## Explanation of Results
 
 StringBuilder faster than String Because StringBuilder when appending StringBuilder will append to object directly by '.append'
 
